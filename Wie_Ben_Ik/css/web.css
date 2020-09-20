@@ -1,0 +1,58 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #f8f8f8;
+}
+.container h1{
+	text-align: center;
+	color: #0B5345;
+	font-family: "Lucida Console", monospace;
+	font-size: 30px;
+	text-decoration: none;
+	padding-top: 5%;
+}
+.container p{
+	padding-left: 18%;
+	padding-right: 18%;
+	color: black;
+	font-family: "Lucida Console", monospace;
+	font-size: 18px;
+	text-decoration: none;
+
+}
+.container img{
+	padding-top: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+.container a{
+	text-align: center;
+	color: #0B5345;
+	font-family: "Lucida Console", monospace;
+	font-size: 20px;
+	text-decoration: none;
+	padding-top: 5%;
+}
+.nav{
+	background-color: black;
+	padding: 10px 10px;
+}
+.nav a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px;
+	font-size: 18px;
+	font-family: "Lucida Console", monospace;
+}
+.nav a:hover, #active{
+	color: #A2D9CE;
+}
+#terugknop{
+	font-family: "Lucida Console", monospace;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+	padding-top: 15%;
+}

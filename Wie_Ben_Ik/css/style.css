@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #f8f8f8;
+}
+.container h1{
+	color: #0B5345;
+	font-family: "Lucida Console", monospace;
+	font-size: 30px;
+}
+
+.container p{
+	font-family: "Lucida Console", monospace;
+	font-size: 15px;
+}
+
+.container{
+	text-align: center;
+}
+.container img{
+	border-radius: 50%;
+	height: 150px;
+	padding-bottom: 50px;
+	margin-top: 10wW%;
+}
+.nav{
+	background-color: black;
+	padding: 10px 10px;
+}
+.nav a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px;
+	font-size: 18px;
+	font-family: "Lucida Console", monospace;
+}
+.nav a:hover{
+	color: #A2D9CE;
+}
